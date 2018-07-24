@@ -6,7 +6,7 @@ The Dataset can be included with import mnist or can be downloaded from this url
 You may have to change the path to the data training and testing file in the code
 To compile the code in linux environment system type - python digit_classification.py
 
-This is the most basic implmentation of keras library
+This is the most basic implementation of keras library
 
 Other useful information :-
 
