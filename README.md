@@ -8,7 +8,8 @@ To compile the code in linux environment system type - python digit_classificati
 
 This is the most basic implmentation of keras library
 
-Other useful information :-\\
+Other useful information :-
+
 Optimizer used : Stochastic gradient descent
 Number of Training sample : 60,000
 Batch size used : 128
