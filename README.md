@@ -10,7 +10,7 @@ This is the most basic implmentation of keras library
 
 Other useful information :-
 
-Optimizer used : Stochastic gradient descent
-Number of Training sample : 60,000
-Batch size used : 128
+Optimizer used : Stochastic gradient descent;
+Number of Training sample : 60,000;
+Batch size used : 128;
 No. of Epoch : 200
